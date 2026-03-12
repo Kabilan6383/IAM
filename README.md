@@ -2,13 +2,13 @@
 
 ---
 
-## Aim
+## Aim:
 
 To implement identity and access management (IAM) in AWS to securely control access to resources by creating and managing IAM users, groups, roles, and policies for team collaboration.
 
 ---
 
-## Algorithm
+## Algorithm:
 
 1. Sign in to the AWS Management Console.
 2. Navigate to the IAM service.
@@ -21,7 +21,7 @@ To implement identity and access management (IAM) in AWS to securely control acc
 
 ---
 
-## Procedure
+## Procedure:
 
 ### 1. Access IAM
 
@@ -62,12 +62,12 @@ To implement identity and access management (IAM) in AWS to securely control acc
 
 ---
 
-## Outcome
+## Outcome:
 
 - IAM users, groups, and roles were successfully created with appropriate permissions and MFA configured to ensure secure identity management for the team.
 
 ---
 
-## Result
+## Result:
 
 Successfully implemented identity and access management using Amazon IAM for secure team collaboration and controlled access to AWS resources.
